@@ -41,6 +41,7 @@ Each project is stored in its own folder with a dedicated README.
 | ---: | ------------------- | ----------------------------------------------------- |
 |   01 | Shop List App       | [Live Demo](https://shop-list-aqilrao1.netlify.app/)  |
 |   02 | Random User Project | [Live Demo](https://random-user-aqilrao.netlify.app/) |
+|   03 | Leaflet Geo-Map     | [Live Demo]()                                         |
 
 ---
 
