@@ -43,6 +43,7 @@ Each project is stored in its own folder with a dedicated README.
 |   02 | Random User Project | [Live Demo](https://random-user-aqilrao.netlify.app/)  |
 |   03 | Leaflet Geo-Map     | [Live Demo](https://leaflet-geomap.netlify.app/)       |
 |   04 | Infinte Scroll      | [Live Demo](https://infinite-scroll-aqil.netlify.app/) |
+|   05 | Light Dark Mode     | [Live Demo]()                                          |
 
 ---
 
