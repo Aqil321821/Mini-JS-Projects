@@ -44,6 +44,7 @@ Each project is stored in its own folder with a dedicated README.
 |   03 | Leaflet Geo-Map     | [Live Demo](https://leaflet-geomap.netlify.app/)          |
 |   04 | Infinte Scroll      | [Live Demo](https://infinite-scroll-aqil.netlify.app/)    |
 |   05 | Light Dark Mode     | [Live Demo](https://light-dark-mode-aqilrao.netlify.app/) |
+|   06 | Custom Countdown    | [Live Demo]()                                             |
 
 ---
 
