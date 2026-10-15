@@ -37,13 +37,13 @@ The purpose of this repository is to:
 Below is the list of projects included in this repository.  
 Each project is stored in its own folder with a dedicated README.
 
-| S.No | Project Name        | Live                                                   |
-| ---: | ------------------- | ------------------------------------------------------ |
-|   01 | Shop List App       | [Live Demo](https://shop-list-aqilrao1.netlify.app/)   |
-|   02 | Random User Project | [Live Demo](https://random-user-aqilrao.netlify.app/)  |
-|   03 | Leaflet Geo-Map     | [Live Demo](https://leaflet-geomap.netlify.app/)       |
-|   04 | Infinte Scroll      | [Live Demo](https://infinite-scroll-aqil.netlify.app/) |
-|   05 | Light Dark Mode     | [Live Demo]()                                          |
+| S.No | Project Name        | Live                                                      |
+| ---: | ------------------- | --------------------------------------------------------- |
+|   01 | Shop List App       | [Live Demo](https://shop-list-aqilrao1.netlify.app/)      |
+|   02 | Random User Project | [Live Demo](https://random-user-aqilrao.netlify.app/)     |
+|   03 | Leaflet Geo-Map     | [Live Demo](https://leaflet-geomap.netlify.app/)          |
+|   04 | Infinte Scroll      | [Live Demo](https://infinite-scroll-aqil.netlify.app/)    |
+|   05 | Light Dark Mode     | [Live Demo](https://light-dark-mode-aqilrao.netlify.app/) |
 
 ---
 
