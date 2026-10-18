@@ -47,7 +47,7 @@ Each project is stored in its own folder with a dedicated README.
 |   06 | Custom Countdown    | [Live Demo](https://custom-countdown-aqilrao.netlify.app/) |
 |   07 | Book Keeper         | [Live Demo](https://bookmark-app-aqilrao.netlify.app/)     |
 |   08 | NASA API            | [Live Demo](https://nasa-pictures-api.netlify.app/)        |
-|   09 | Kanban Project      | [Live Demo]()                                              |
+|   09 | Kanban Project      | [Live Demo](https://kanban-aqilrao.netlify.app/)           |
 
 ---
 
