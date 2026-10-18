@@ -48,6 +48,7 @@ Each project is stored in its own folder with a dedicated README.
 |   07 | Book Keeper         | [Live Demo](https://bookmark-app-aqilrao.netlify.app/)     |
 |   08 | NASA API            | [Live Demo](https://nasa-pictures-api.netlify.app/)        |
 |   09 | Kanban Project      | [Live Demo](https://kanban-aqilrao.netlify.app/)           |
+|   10 | dictionary-app      | [Live Demo]()                                              |
 
 ---
 
