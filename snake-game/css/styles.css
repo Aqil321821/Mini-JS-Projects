@@ -23,6 +23,13 @@
   display: grid;
   grid-template-rows: repeat(18, 1fr);
   grid-template-columns: repeat(18, 1fr);
+
+  /* grid lines // Temporary  */
+  /* background-size: 20px 20px; */
+  background-size: calc(100% / 18) calc(100% / 18);
+  background-image:
+    linear-gradient(to right, #000 1px, transparent 1px),
+    linear-gradient(to bottom, #000 1px, transparent 1px);
 }
 
 #scoreBox {
@@ -47,17 +54,17 @@
   background: linear-gradient(rgb(240, 124, 124), rgb(228, 228, 129));
   border: 2px solid rgb(34, 4, 34);
   transform: scale(1.02);
-  border-radius: 9px;
+  border-radius: 8px;
 }
 
 .snake {
   background-color: purple;
-  border: 0.25vmin solid white;
+  border: 1px solid white;
   border-radius: 12px;
 }
 
 .food {
   background: linear-gradient(red, purple);
-  border: 0.25vmin solid black;
+  border: 1px solid black;
   border-radius: 8px;
 }
