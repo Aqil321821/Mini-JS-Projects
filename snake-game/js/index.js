@@ -1,3 +1,4 @@
+/*
 const foodSound = new Audio("music/food.mp3");
 const gameOverSound = new Audio("music/gameover.mp3");
 const moveSound = new Audio("music/move.mp3");
@@ -147,3 +148,36 @@ window.addEventListener("keydown", (e) => {
       break;
   }
 });
+*/
+//Practice window
+// let a = 2;
+// let b = 16;
+// console.log(Math.round(a + (b - a) * Math.random()));
+
+//snake movement
+
+let snakeArr = [
+  {
+    //head
+    x: 9,
+    y: 15,
+  },
+
+  {
+    //1st segment body
+    x: 10,
+    y: 15,
+  },
+  {
+    //tail of snake
+    x: 11,
+    y: 15,
+  },
+];
+
+//snake move , start from 2nd last tile of snake
+for (let i = snakeArr.length - 2; i >= 0; i--) {
+  snakeArr[i + 1] = { ...snakeArr[i] };
+}
+
+//math.round(math.round(2+(14)* 0.95))

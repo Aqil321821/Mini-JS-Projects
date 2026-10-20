@@ -35,17 +35,17 @@
 #scoreBox {
   position: absolute;
   top: 9px;
-  right: 200px;
-  font-size: 39px;
+  right: 140px;
+  font-size: 25px;
   font-weight: bold;
   font-family: "New Tegomin", serif;
 }
 
 #hiscoreBox {
   position: absolute;
-  top: 59px;
+  top: 35px;
   right: 140px;
-  font-size: 39px;
+  font-size: 25px;
   font-weight: bold;
   font-family: "New Tegomin", serif;
 }
