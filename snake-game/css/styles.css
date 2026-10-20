@@ -26,10 +26,10 @@
 
   /* grid lines // Temporary  */
   /* background-size: 20px 20px; */
-  background-size: calc(100% / 18) calc(100% / 18);
+  /* background-size: calc(100% / 18) calc(100% / 18);
   background-image:
     linear-gradient(to right, #000 1px, transparent 1px),
-    linear-gradient(to bottom, #000 1px, transparent 1px);
+    linear-gradient(to bottom, #000 1px, transparent 1px); */
 }
 
 #scoreBox {
