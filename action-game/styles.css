@@ -20,23 +20,24 @@ body {
   background-image: url(./res/dino.png);
   background-repeat: no-repeat;
   background-size: cover;
-  width: 233px;
+    width: 233px;
   height: 114px;
   position: absolute;
   bottom: 0;
   left: 52px;
-  border: 1px solid red;
+  /* border: 1px solid red; */
 }
 
 .obstacle {
   background-image: url(./res/dragon.png);
   width: 166px;
   height: 113px;
+  height: 75px;
   background-size: cover;
   position: absolute;
   bottom: 0;
   left: 44vw;
-  border: 1px solid red;
+  /* border: 1px solid red; */
 }
 
 .gameOver {
@@ -72,7 +73,7 @@ body {
     bottom: 0px;
   }
   50% {
-    bottom: 300px;
+    bottom: 700px;
   }
   100% {
     bottom: 0px;

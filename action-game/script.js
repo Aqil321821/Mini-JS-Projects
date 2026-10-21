@@ -24,6 +24,18 @@ document.onkeydown = function (e) {
 
 }
 
+
+
+
+
+// Main Loop of Game 
+/*
+ismein har 10 milliseconds baad Dino aur obstacle ki positions check hoti hain, collision detect hota hai, score increase hota hai, aur obstacle ki speed bhi gradually increase hoti hai.
+*/
+
+
+
+
 setInterval(() => {
     dino = document.querySelector('.dino');
     gameOver = document.querySelector(".gameOver");
@@ -42,6 +54,7 @@ setInterval(() => {
     offsetY = Math.abs(dy - oy);
     console.log(offsetX, offsetY);
 
+    //collison
     if (offsetX < 73 && offsetY < 52) {
         gameOver.innerHTML = "Game Over - Reload to start over";
         obstacle.classList.remove('obstacleAni');
