@@ -51,6 +51,9 @@ Each project is stored in its own folder with a dedicated README.
 |   10 | dictionary-app      | [Live Demo](https://dictionary-aqilrao.netlify.app/)       |
 |   11 | snake-game          | [Live Demo](https://snake-game-aqilrao.netlify.app/)       |
 |   12 | action-game         | [Live Demo](https://action-game-aqilrao.netlify.app/)      |
+|   13 | color-flipper       | [Live Demo]()                                              |
+|   13 | reviws-card         | [Live Demo]()                                              |
+|   14 | accordion           | [Live Demo]()                                              |
 
 ---
 
