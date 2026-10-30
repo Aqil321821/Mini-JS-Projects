@@ -54,7 +54,8 @@ Each project is stored in its own folder with a dedicated README.
 |   13 | color-flipper            | [Live Demo]()                                              |
 |   14 | reviws-card              | [Live Demo]()                                              |
 |   15 | accordion                | [Live Demo]()                                              |
-|   16 | Joke Generator using XHR | [Live Demo]()                                              |
+|   16 | Joke Generator using XHR | [Live Demo](https://joke-generator-xhr.netlify.app/)       |
+|   17 | Form Validator           | [Live Demo](https://valid-form-aqilrao.netlify.app/)       |
 
 ---
 
