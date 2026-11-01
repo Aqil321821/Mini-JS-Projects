@@ -57,7 +57,8 @@ Each project is stored in its own folder with a dedicated README.
 |   16 | Joke Generator using XHR | [Live Demo](https://joke-generator-xhr.netlify.app/)       |
 |   17 | Form Validator           | [Live Demo](https://valid-form-aqilrao.netlify.app/)       |
 |   18 | Movie Booking            | [Live Demo](https://movie-booking-aqilrao.netlify.app/)    |
-|   18 | Exchange Rate Calculator | [Live Demo]()                                              |
+|   19 | Exchange Rate Calculator | [Live Demo]()                                              |
+|   20 | Modal and Slider         | [Live Demo]()                                              |
 
 ---
 
