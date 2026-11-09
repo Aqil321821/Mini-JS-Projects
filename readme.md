@@ -59,6 +59,7 @@ Each project is stored in its own folder with a dedicated README.
 |   18 | Movie Booking            | [Live Demo](https://movie-booking-aqilrao.netlify.app/)    |
 |   19 | Exchange Rate Calculator | [Live Demo]()                                              |
 |   20 | Modal and Slider         | [Live Demo]()                                              |
+|   21 | Meal Finder              | [Live Demo]()                                              |
 
 ---
 
