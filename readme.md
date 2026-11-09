@@ -37,29 +37,29 @@ The purpose of this repository is to:
 Below is the list of projects included in this repository.  
 Each project is stored in its own folder with a dedicated README.
 
-| S.No | Project Name             | Live                                                       |
-| ---: | ------------------------ | ---------------------------------------------------------- |
-|   01 | Shop List App            | [Live Demo](https://shop-list-aqilrao1.netlify.app/)       |
-|   02 | Random User Project      | [Live Demo](https://random-user-aqilrao.netlify.app/)      |
-|   03 | Leaflet Geo-Map          | [Live Demo](https://leaflet-geomap.netlify.app/)           |
-|   04 | Infinte Scroll           | [Live Demo](https://infinite-scroll-aqil.netlify.app/)     |
-|   05 | Light Dark Mode          | [Live Demo](https://light-dark-mode-aqilrao.netlify.app/)  |
-|   06 | Custom Countdown         | [Live Demo](https://custom-countdown-aqilrao.netlify.app/) |
-|   07 | Book Keeper              | [Live Demo](https://bookmark-app-aqilrao.netlify.app/)     |
-|   08 | NASA API                 | [Live Demo](https://nasa-pictures-api.netlify.app/)        |
-|   09 | Calculator App           | [Live Demo](https://calculator-aqilrao.netlify.app/)       |
-|   10 | dictionary-app           | [Live Demo](https://dictionary-aqilrao.netlify.app/)       |
-|   11 | snake-game               | [Live Demo](https://snake-game-aqilrao.netlify.app/)       |
-|   12 | action-game              | [Live Demo](https://action-game-aqilrao.netlify.app/)      |
-|   13 | color-flipper            | [Live Demo]()                                              |
-|   14 | reviws-card              | [Live Demo]()                                              |
-|   15 | accordion                | [Live Demo]()                                              |
-|   16 | Joke Generator using XHR | [Live Demo](https://joke-generator-xhr.netlify.app/)       |
-|   17 | Form Validator           | [Live Demo](https://valid-form-aqilrao.netlify.app/)       |
-|   18 | Movie Booking            | [Live Demo](https://movie-booking-aqilrao.netlify.app/)    |
-|   19 | Exchange Rate Calculator | [Live Demo]()                                              |
-|   20 | Modal and Slider         | [Live Demo]()                                              |
-|   21 | Meal Finder              | [Live Demo]()                                              |
+| S.No | Project Name             | Live                                                        |
+| ---: | ------------------------ | ----------------------------------------------------------- |
+|   01 | Shop List App            | [Live Demo](https://shop-list-aqilrao1.netlify.app/)        |
+|   02 | Random User Project      | [Live Demo](https://random-user-aqilrao.netlify.app/)       |
+|   03 | Leaflet Geo-Map          | [Live Demo](https://leaflet-geomap.netlify.app/)            |
+|   04 | Infinte Scroll           | [Live Demo](https://infinite-scroll-aqil.netlify.app/)      |
+|   05 | Light Dark Mode          | [Live Demo](https://light-dark-mode-aqilrao.netlify.app/)   |
+|   06 | Custom Countdown         | [Live Demo](https://custom-countdown-aqilrao.netlify.app/)  |
+|   07 | Book Keeper              | [Live Demo](https://bookmark-app-aqilrao.netlify.app/)      |
+|   08 | NASA API                 | [Live Demo](https://nasa-pictures-api.netlify.app/)         |
+|   09 | Calculator App           | [Live Demo](https://calculator-aqilrao.netlify.app/)        |
+|   10 | dictionary-app           | [Live Demo](https://dictionary-aqilrao.netlify.app/)        |
+|   11 | snake-game               | [Live Demo](https://snake-game-aqilrao.netlify.app/)        |
+|   12 | action-game              | [Live Demo](https://action-game-aqilrao.netlify.app/)       |
+|   13 | color-flipper            | [Live Demo]()                                               |
+|   14 | reviws-card              | [Live Demo]()                                               |
+|   15 | accordion                | [Live Demo]()                                               |
+|   16 | Joke Generator using XHR | [Live Demo](https://joke-generator-xhr.netlify.app/)        |
+|   17 | Form Validator           | [Live Demo](https://valid-form-aqilrao.netlify.app/)        |
+|   18 | Movie Booking            | [Live Demo](https://movie-booking-aqilrao.netlify.app/)     |
+|   19 | Exchange Rate Calculator | [Live Demo](https://exchange-rate-aqilrao.netlify.app/)     |
+|   20 | Modal and Slider         | [Live Demo](https://modal-menu-slider-aqilrao.netlify.app/) |
+|   21 | Meal Finder              | [Live Demo](https://meal-finder-aqilrao.netlify.app/)       |
 
 ---
 
